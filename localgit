@@ -9,6 +9,7 @@ git commit -m "give any comment"
 git status
 git log
 git show <commit_id>
------------it's local repo command which is run on local system-------------
---------hello-----
+-----------it's local repo command which is run on local system------------
+--------------------------------END----------------------------------------
+--------------------------------Hello--------------------------------------
 
