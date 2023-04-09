@@ -22,5 +22,3 @@ git fetch //it's fetch all repo from origin in to local
 git merge dev1 --squash //combine multi commit in to one commit 
 git stash //for store the data from working stage,which not requir right now
 git stash pop //relase the stash data
-
-
