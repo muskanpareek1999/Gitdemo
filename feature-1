@@ -8,6 +8,7 @@ it's 1st feature added
 hello it's muskan
 it's gadbad added
 <<<<<<< HEAD
+<<<<<<< HEAD
 hello
 hey
 hi 
@@ -19,3 +20,6 @@ changes done
 =======
 >>>>>>> b66a9b6 (updated)
 >>>>>>> master
+=======
+hello 
+>>>>>>> 3995902 (hello)
