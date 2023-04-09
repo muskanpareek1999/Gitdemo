@@ -1,4 +1,10 @@
 it's 1st feature added
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+
+=======
+>>>>>>> master
 hello it's muskan
 it's gadbad added
 <<<<<<< HEAD
@@ -9,3 +15,7 @@ hi
 hello 
 changes done
 >>>>>>> parent of 54896d9 (hey)
+<<<<<<< HEAD
+=======
+>>>>>>> b66a9b6 (updated)
+>>>>>>> master
